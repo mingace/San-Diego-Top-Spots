@@ -1,0 +1,31 @@
+html {
+    background-color: #26323b;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    color:beige;
+    font-size: 40px;
+}
+
+.headers {
+    padding: 10px;
+    background-color: rgb(99, 98, 96);
+    color: beige;
+    font-size: larger;
+}
+
+#tableBody {
+    padding-bottom: 50px;
+    margin: 35px;
+    line-height: 30px;
+    line-height-step: inherit;
+    background-color: rgb(243, 242, 236);
+    font-size: medium;
+    font-weight: bold;    
+}
+
